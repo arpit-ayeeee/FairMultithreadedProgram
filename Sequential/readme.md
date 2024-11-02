@@ -1,0 +1,1 @@
+## Output : Sequential Approach: Total Prime Numbers = 5761455, Time taken = 4m3.487358s
